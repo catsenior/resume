@@ -124,9 +124,12 @@ main {
 
 hr {
   color: gray;
+  float:left;
+  width: 100%; 
+  margin: 0 ;
 }
 
-.contacts-and-skills {
+.my-skills {
   margin-top: 20px;
   margin-bottom: 30px;
 }
